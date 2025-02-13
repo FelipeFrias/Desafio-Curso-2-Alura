@@ -6,7 +6,7 @@ saudacao();
 function cumprimetar(nome){
     console.log(`Olá, ${nome}`);
 }
-cumprimetar('Felipe');
+cumprimetar('Mauricio');
 
 function multiplicarNumero(numero){
     return console.log(numero * 2);
