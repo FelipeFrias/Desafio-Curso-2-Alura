@@ -11,7 +11,7 @@ cumprimetar('Mauricio');
 function multiplicarNumero(numero){
     return console.log(numero * 2);
 }
-multiplicarNumero('463');
+multiplicarNumero('55');
 
 function mediaNumeros(numero1, numero2, numero3){
     return console.log((numero1 + numero2 + numero3) / 3);
