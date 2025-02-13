@@ -53,7 +53,7 @@ converterDolar(322);
 function areaPerimetro(altura, largura){
     return console.log('Área =', altura * largura, 'm') || console.log('Perímetro =', altura + altura + largura + largura, 'm');
 }
-areaPerimetro(50, 10);
+areaPerimetro(10, 5);
 
 function areaPerimetroCirculo(r, p){
     return console.log('Área Circulo =', p * r * r) || console.log('Perímetro Circulo =', 2 * p * r);
