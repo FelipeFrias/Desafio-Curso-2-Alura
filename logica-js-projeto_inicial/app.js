@@ -46,7 +46,7 @@ function factorialize(numero){
 factorialize(6);
 
 function converterDolar(valor){
-    return console.log('R$',valor * 4.80);
+    return console.log('R$',valor * 5.70);
 }
 converterDolar(322);
 
